@@ -1,0 +1,13 @@
+name: brun
+version: 0.1.0
+
+authors:
+  - Zander Hill <zander@xargs.io>
+
+targets:
+  brun:
+    main: src/brun.cr
+
+crystal: 0.29.0
+
+license: MIT
